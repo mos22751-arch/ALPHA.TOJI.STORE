@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="AURAFLEX">
+  <defs>
+    <linearGradient id="g" x1="16" x2="112" y1="18" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00f5d4"/>
+      <stop offset=".55" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ff2d75"/>
+    </linearGradient>
+    <filter id="s" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="10" flood-color="#00f5d4" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#05070d"/>
+  <path filter="url(#s)" fill="url(#g)" d="M64 15 112 101H93l-8-16H42l-8 16H16L64 15Zm0 32L50 69h28L64 47Z"/>
+  <path fill="#fff" fill-opacity=".9" d="M58 78h12l9 23H67l-3-10-3 10H49l9-23Z"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "AURAFLEX",
+  "short_name": "AURAFLEX",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#00f5d4",
+  "description": "Luxury performance sport store.",
+  "icons": [
+    {
+      "src": "../assets/favicons/favicon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ]
+}

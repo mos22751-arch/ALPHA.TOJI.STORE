@@ -1,2 +1,0 @@
-# ALPHA.TOJI.STORE
-GYM Store
